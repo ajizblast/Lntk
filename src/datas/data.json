@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Dumbways Id",
+      "name": "Dumbways",
+      "email": "dumbways@mail.id",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "fullname": "Chahyo Purnomo Aji",
+      "name": "Chahyo",
+      "email": "aji@mail.id",
+      "password": "12345"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@mail.id",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "name": "Purnomo",
+      "email": "purnomo@mail.id",
+      "password": "12345"
+    }
+  ]
+}
